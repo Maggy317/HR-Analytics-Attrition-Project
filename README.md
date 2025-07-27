@@ -43,7 +43,7 @@ To understand what causes employee churn and to use analytics to help HR departm
 -	Added calculated columns like Age Band and Atrrition Rate
 
 ## Visuals
--	HR_Dashboard
+-	<a href=https://github.com/Maggy317/HR-Analytics-Attrition-Project/blob/main/HR_Dashboard.png/HR_dashhboard.pbix.png>HR_Dashboard</a>
 
 ## Key Insights
 -	Sales & HR department showed highest attrition rates
