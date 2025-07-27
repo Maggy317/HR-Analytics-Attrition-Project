@@ -29,7 +29,7 @@ To understand what causes employee churn and to use analytics to help HR departm
 
 ## Dataset Dsecription
 -	<a href=https://github.com/Maggy317/HR-Analytics-Attrition-Project/blob/main/HR_Raw_Data.xlsx>HR_Raw_Dataset</a>
--	HR_Analytics_Cleaned_Dataset ;
+-	<a href=https://github.com/Maggy317/HR-Analytics-Attrition-Project/blob/main/HR_Cleaned_Data.xlsx>HR_Cleaned_Dataset</a>
 
 ## Tools
 -	Microsoft Excel (data cleaning, pivot tables, KPIs summary)
