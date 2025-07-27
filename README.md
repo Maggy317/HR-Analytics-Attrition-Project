@@ -28,7 +28,7 @@ To understand what causes employee churn and to use analytics to help HR departm
 -	What actionable strategies can improve retention?
 
 ## Dataset Dsecription
--	HR_Analytics_Dataset ;  "C:\Users\EM DREAMS NG\Documents\HR_analytics_dataset.xlsx"
+-	<a href=https://github.com/Maggy317/HR-Analytics-Attrition-Project/blob/main/HR_Raw_Data.xlsx>HR_Raw_Dataset</a>
 -	HR_Analytics_Cleaned_Dataset ;
 
 ## Tools
